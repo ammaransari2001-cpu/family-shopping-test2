@@ -1,0 +1,9 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+firebase-debug.log
+functions/node_modules/
+lib/firebase_options.dart
